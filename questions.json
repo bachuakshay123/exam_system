@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Which language is primarily used for web development?",
+    "options": ["Python", "HTML", "C++", "Java"],
+    "answer": "HTML"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "Who invented Python?",
+    "options": ["Linus Torvalds", "Dennis Ritchie", "Guido van Rossum", "Bjarne Stroustrup"],
+    "answer": "Guido van Rossum"
+  }
+]
